@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Ajaishanth
 
 💻 Aspiring Software Developer | Exploring AI, Python & Full-Stack  
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://media3.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif">
 
 - 🔭 Here's my [portfolio](https://ajaishanth.dev)                                               
 - 🌱 I’m currently learning Python, AI, and building real-world projects  
