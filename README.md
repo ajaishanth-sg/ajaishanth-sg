@@ -35,7 +35,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Ajaishanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajaishanth&theme=dark&show_icons=true&&hide=issues,contribs)  
+![ajaishanth-sg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaishanth-sg&theme=radical&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
