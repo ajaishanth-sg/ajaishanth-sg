@@ -35,7 +35,7 @@
 ---
 
 ### 📊 GitHub Stats
-![ajaishanth-sg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaishanth-sg&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![ajaishanth-sg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajaishanth-sg&theme=radical&hide_border=false)
 
 ---
 
