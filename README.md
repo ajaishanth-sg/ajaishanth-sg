@@ -1,15 +1,15 @@
-# Hi there, I'm Ajaishanth 👋
+# Hi there, I'm Ajaishanth 
 
 **Aspiring Software Developer** · Exploring AI, Python & Full-Stack
 
 <img align="right" width="320" src="https://media3.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" />
 
-- 🔭 Portfolio: [ajaishanth.dev](https://ajaishanth.dev)
-- 🌱 Currently learning Python, AI, and building real-world projects
-- 🎯 Interested in Finance + AI + Problem Solving
-- 🗣️ Speaks Japanese
-- ⚡ Runs marathons, cooks, and watches anime
-- 📬 [ajaishanth22@gmail.com](mailto:ajaishanth22@gmail.com)
+-  Portfolio: [ajaishanth.dev](https://ajaishanth.dev)
+-  Currently learning Python, AI, and building real-world projects
+-  Interested in Finance + AI + Problem Solving
+-  Speaks Japanese
+-  Runs marathons, cooks, and watches anime
+-  [ajaishanth22@gmail.com](mailto:ajaishanth22@gmail.com)
 
 ---
 
@@ -22,14 +22,6 @@
 
 `MySQL` `MongoDB` `Firebase` `VS Code` `PyCharm` `Git` `Anaconda`
 `Eclipse` `Notion` `Figma` `Adobe XD` `Photoshop` `Netlify`
-
----
-
-## Workspace
-
-- ASUS TUF A15
-- NVIDIA RTX 3050
-- AMD Ryzen 7 7435HS
 
 ---
 
