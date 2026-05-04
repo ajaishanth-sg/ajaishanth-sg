@@ -1,4 +1,4 @@
-# Hi there, I'm Ajaishanth 👋
+# Hi there, I'm Ajaishanth 
 
 **AI Developer & Full-Stack Engineer** · B.Tech IT @ Anna University `2026`
 
