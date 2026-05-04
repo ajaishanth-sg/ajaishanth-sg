@@ -2,8 +2,6 @@
 
 **Aspiring Software Developer** · Exploring AI, Python & Full-Stack
 
-<img align="right" width="320" src="https://media3.giphy.com/media/Vh1KrUr6Tvl1RFYYk6/giphy.gif" />
-
 -  Portfolio: [ajaishanth.dev](https://ajaishanth.dev)
 -  Currently learning Python, AI, and building real-world projects
 -  Interested in Finance + AI + Problem Solving
