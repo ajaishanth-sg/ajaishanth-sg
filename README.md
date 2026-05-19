@@ -7,7 +7,7 @@
 -  Passionate about AI, Finance & building real-world products
 -  Athletics champion at Division, Zonal & District levels
 -  Runs marathons, cooks, and watches anime
--  Tamil · English · Malayalam · Japanese
+-  Tamil · English · Malayalam 
 -  [ajaishanth22@gmail.com](mailto:ajaishanth22@gmail.com)
 
 ---
