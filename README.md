@@ -6,7 +6,7 @@
 -  Passionate about AI, Finance & building real-world products
 -  Athletics champion at Division, Zonal & District levels
 -  Runs marathons, cooks, and watches anime
--  Tamil · English · Malayalam 
+-  Tamil · English · Malayalam · Japanese
 -  [ajaishanth22@gmail.com](mailto:ajaishanth22@gmail.com)
 
 ---
@@ -40,21 +40,7 @@ full preprocessing pipelines: feature engineering, normalization, time-series wi
 
 ---
 
-##  Education
 
-**B.Tech — Information Technology (Hons)** · Anna University  
-Excel Engineering College, Erode · `Nov 2022 – Apr 2026`
-
----
-
-## Certifications
-
-- Masterclass in IoT & Data Collection
-- Advanced Python Programming
-- Basic Java
-- NCC A / B / C Certificates
-
----
 
 ##  Connect
 
