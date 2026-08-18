@@ -3,7 +3,6 @@
 **AI Developer & Full-Stack Engineer** · B.Tech IT @ Anna University `2026`
 
 -  AI Developer @ **CubeAISolutions Tech Pvt. Ltd., Bangalore**
--  Portfolio: [ajaishanth.dev](https://portfoilio-nine-wine.vercel.app)
 -  Passionate about AI, Finance & building real-world products
 -  Athletics champion at Division, Zonal & District levels
 -  Runs marathons, cooks, and watches anime
