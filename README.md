@@ -1,6 +1,6 @@
 # Hi there, I'm Ajaishanth 
 
-**AI Developer & Full-Stack Engineer** · B.Tech IT @ Anna University `2026`
+**AI Developer & Full-Stack Engineer** · B.Tech IT @ Anna University 
 
 -  AI Developer @ **CubeAISolutions Tech Pvt. Ltd., Bangalore**
 -  Passionate about AI, Finance & building real-world products
